@@ -1,0 +1,144 @@
+  [
+		{
+			"id": "2643743",
+			"name": "London",
+			"country": "GB",
+			"region": "England",
+			"lat": "51.5085300",
+			"lon": "-0.1257400",
+			"population": "7556900"
+		},
+			{
+			"id": "2988507",
+			"name": "Paris",
+			"country": "FR",
+			"region": "\u00cele-de-France",
+			"lat": "48.8534100",
+			"lon": "2.3488000",
+			"population": "2138551"
+		},
+		{
+			"id": "2759794",
+			"name": "Amsterdam",
+			"country": "NL",
+			"region": "Provincie Noord-Holland",
+			"lat": "52.3740300",
+			"lon": "4.8896900",
+			"population": "741636"
+		},
+		{
+			"id": "3435910",
+			"name": "Buenos Aires",
+			"country": "AR",
+			"region": "Ciudad Aut\u00f3noma de Buenos Aires",
+			"lat": "-34.6131500",
+			"lon": "-58.3772300",
+			"population": "13076300"
+		},
+		{
+			"id": "1880252",
+			"name": "Singapore",
+			"country": "SG",
+			"region": null,
+			"lat": "1.2896700",
+			"lon": "103.8500700",
+			"population": "3547809"
+		},
+		{
+			"id": "1819729",
+			"name": "Hong Kong",
+			"country": "HK",
+			"region": "Central and Western District",
+			"lat": "22.2783200",
+			"lon": "114.1746900",
+			"population": "7012738"
+		},
+		{
+			"id": "1850147",
+			"name": "Tokyo",
+			"country": "JP",
+			"region": "Tokyo Prefecture",
+			"lat": "35.6895000",
+			"lon": "139.6917100",
+			"population": "8336599"
+		},
+		{
+			"id": "3169070",
+			"name": "Rome",
+			"country": "IT",
+			"region": "Lazio",
+			"lat": "41.8919300",
+			"lon": "12.5113300",
+			"population": "2318895"
+		},
+		{
+			"id": "3675707",
+			"name": "Madrid",
+			"country": "CO",
+			"region": "Departamento de Cundinamarca",
+			"lat": "4.7324500",
+			"lon": "-74.2641900",
+			"population": "50437"
+		},
+		{
+			"id": "5128581",
+			"name": "New York City",
+			"country": "US",
+			"region": "New York",
+			"lat": "40.7142700",
+			"lon": "-74.0059700",
+			"population": "8175133"
+		},
+		{
+			"id": "5368361",
+			"name": "Los Angeles",
+			"country": "US",
+			"region": "California",
+			"lat": "34.0522300",
+			"lon": "-118.2436800",
+			"population": "3971883"
+		},  {
+			"id": "1816670",
+			"name": "Beijing",
+			"country": "CN",
+			"region": "Beijing Shi",
+			"lat": "39.9075000",
+			"lon": "116.3972300",
+			"population": "11716620"
+		},
+			{
+			"id": "2653822",
+			"name": "Cardiff",
+			"country": "GB",
+			"region": "Wales",
+			"lat": "51.4800000",
+			"lon": "-3.1800000",
+			"population": "447287"
+		},  {
+			"id": "3530597",
+			"name": "Mexico City",
+			"country": "MX",
+			"region": "Ciudad de M\u00e9xico",
+			"lat": "19.4284700",
+			"lon": "-99.1276600",
+			"population": "12294193"
+		},
+		{
+			"id": "6167865",
+			"name": "Toronto",
+			"country": "CA",
+			"region": "Ontario",
+			"lat": "43.7001100",
+			"lon": "-79.4163000",
+			"population": "2600000"
+		},
+		{
+			"id": "2147714",
+			"name": "Sydney",
+			"country": "AU",
+			"region": "State of New South Wales",
+			"lat": "-33.8678500",
+			"lon": "151.2073200",
+			"population": "4627345"
+		}
+]
