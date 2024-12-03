@@ -19,9 +19,6 @@ This as an opportunity to showcase your design and development skills together. 
 3. Run `npm run dev` to start the app locally.  
 
 ## Submission Instructions
-Once you’re done, you can:  
-- Rename your cloned repository and share the link with us.  
-- Zip the project directory and email it back.  
-- Host it on a cloud provider (e.g., Dropbox, Google Drive) and share the link.  
+Once you’re done, zip the project directory and submit it via the submission link provided in the instructions email. 
 
 **Thank you!**
