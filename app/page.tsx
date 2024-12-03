@@ -12,7 +12,7 @@ interface City {
 
 async function getCities() {
   try {
-    const res = await fetch(new URL('cities.json', process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'), {
+    const res = await fetch(new URL('data/cities.json', process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'), {
       cache: 'no-store'
     });
     
